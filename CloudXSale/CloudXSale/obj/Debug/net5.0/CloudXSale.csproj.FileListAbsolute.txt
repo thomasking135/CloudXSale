@@ -1,0 +1,16 @@
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\CloudXSale.exe
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\CloudXSale.deps.json
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\CloudXSale.runtimeconfig.json
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\CloudXSale.runtimeconfig.dev.json
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\CloudXSale.dll
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\ref\CloudXSale.dll
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\bin\Debug\net5.0\CloudXSale.pdb
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.AssemblyInfoInputs.cache
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.AssemblyInfo.cs
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.dll
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\ref\CloudXSale.dll
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.pdb
+C:\Users\New User\source\repos\CloudXSale\CloudXSale\obj\Debug\net5.0\CloudXSale.genruntimeconfig.cache

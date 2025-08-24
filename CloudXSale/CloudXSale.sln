@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudXSale", "CloudXSale\CloudXSale.csproj", "{56CC6FA2-32EC-4FA1-8C06-EFF627CB4E66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4B7D2B78-000B-46E8-951F-CF914585E2EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CloudXSale.tests", "CloudXSale.tests", "{833D7C55-6F93-4DBC-9F90-E370842F2536}"
+	ProjectSection(SolutionItems) = preProject
+		BasketTests.cs = BasketTests.cs
+		CloudXSale.Tests.csproj = CloudXSale.Tests.csproj
+		OptimiseTests.cs = OptimiseTests.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CC6FA2-32EC-4FA1-8C06-EFF627CB4E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CC6FA2-32EC-4FA1-8C06-EFF627CB4E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CC6FA2-32EC-4FA1-8C06-EFF627CB4E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CC6FA2-32EC-4FA1-8C06-EFF627CB4E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{833D7C55-6F93-4DBC-9F90-E370842F2536} = {4B7D2B78-000B-46E8-951F-CF914585E2EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F26D14F-BE4E-45BA-9EFA-1428F6D45C94}
+	EndGlobalSection
+EndGlobal
